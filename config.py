@@ -1,7 +1,7 @@
 
 #BOT TakeCareBot_bot
-BOTKEY = '1669714675:AAHVgB9ElnBqzCFz8vkR9oB9S3WoClirgdw'
-chatID = 1536712687
+BOTKEY = 'telegram_bot_key
+chatID = chat_numer_id
 
 #BOT esempio IOT
 #BOTKEY = '1548498320:AAGj0XUm4PWzinRFj9T08h_b8Cs_1tJAUmE'
