@@ -27,8 +27,8 @@ logger.setLevel(logging.DEBUG)
 PORTNAME='COM5'
 
 
-ADAFRUIT_IO_USERNAME = "lawl"
-ADAFRUIT_IO_KEY = "aio_kEAA97nF0YNtiC2nrZNGQCb42QX0"
+ADAFRUIT_IO_USERNAME = "name_to_use"
+ADAFRUIT_IO_KEY = "key_to_use"
 
 #initial sensors' value
 val = ['0', '0']
